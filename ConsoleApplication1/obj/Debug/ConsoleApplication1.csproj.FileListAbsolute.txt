@@ -1,0 +1,2 @@
+H:\Программирование\Лабы\ClassLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+H:\Программирование\Лабы\ClassLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

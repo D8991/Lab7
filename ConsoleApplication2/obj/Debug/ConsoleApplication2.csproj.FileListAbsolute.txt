@@ -1,0 +1,11 @@
+H:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+H:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+F:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+F:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\bin\Debug\ClassLibraryBookShop.dll
+F:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\bin\Debug\ClassLibraryBookShop.pdb
+F:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+F:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+F:\Программирование\Лабы\ClassLibrary\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
